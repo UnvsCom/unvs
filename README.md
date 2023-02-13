@@ -3,9 +3,9 @@ UNVS integration/staging tree
 
 http://www.unvs.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2023 UNVS Developers
+Copyright (c) 2009-2014 Bitcoin Developers, 
+Copyright (c) 2011-2014 Litecoin Developers, 
+Copyright (c) 2023 UNVS Developers.
 
 What is UNVS?
 ----------------
@@ -20,7 +20,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the UNVS client sofware, see http://www.unvs.com.
+the UNVS client software, see http://www.unvs.com.
 
 License
 -------
