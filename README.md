@@ -3,8 +3,8 @@ UNVS integration/staging tree
 
 http://www.unvs.com
 
-Copyright (c) 2009-2014 Bitcoin Developers - 
-Copyright (c) 2011-2014 Litecoin Developers -  
+Copyright (c) 2009-2014 Bitcoin Developers, 
+Copyright (c) 2011-2014 Litecoin Developers,  
 Copyright (c) 2023 UNVS Developers.
 
 What is UNVS?
