@@ -33,6 +33,10 @@ information or see http://opensource.org/licenses/MIT
 Development process
 -------------------
 
+We are contiunally developing in-house with our own team, but we also receive assistance from freelance developers and community driven support.
+
+We are still in the early stages. Bug fixes, patches etc will be rolled out. Use our services for FUN & Entertainment only !
+
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
