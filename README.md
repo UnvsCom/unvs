@@ -56,10 +56,9 @@ regularly to indicate new official, stable release versions of UNVS.
 Testing
 -------
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
+Testing and code review is a continual task. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
-lots of money.
+lots of money. Again only use this project for FUN !.
 
 ### Automated Testing
 
