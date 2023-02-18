@@ -14,7 +14,7 @@ Copyright (c) 2023 UNVS Developers.
 What is UNVS?
 ----------------
 
-UNVS is a lite version of Bitcoin using scrypt as a proof-of-work algorithm (a fork of Litecoin).
+UNVS is a lite version of Bitcoin using scrypt as a proof-of-work algorithm (also a fork of Litecoin).
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~98 million total coins
