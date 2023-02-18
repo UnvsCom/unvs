@@ -1,6 +1,8 @@
 UNVS integration/staging tree
 ================================
 
+HIGH EXPERIMENTAL. STILL IN DEVELOPMENT STAGES. USE AT YORU OWN RISK. NO WARRANTY PROVIDED. 
+
 http://www.UNVS.com
 
 Copyright (c) 2009-2014 Bitcoin Developers.
