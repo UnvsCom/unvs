@@ -62,7 +62,7 @@ Testing
 
 Testing and code review is a continual task. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
-lots of money. Again only use this project for FUN !.
+lots of money. Again, we stress.. Only use this project for FUN !
 
 ### Automated Testing
 
