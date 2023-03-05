@@ -17,11 +17,11 @@ What is UNVS?
 ----------------
 
 UNVS is a lite version of Bitcoin using scrypt as a proof-of-work algorithm POW (also a fork of Litecoin).
- - 2.5 minute block targets
- - subsidy halves in 525,450 blocks (~2.5 years)
+ - 5 minute block targets
+ - subsidy halves in 525,600 blocks (~5 years)
  - ~98 million total coins
  - 50 coins per block
- - 576 blocks to retarget difficulty
+ - 288 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, downloadable version of
 the UNVS client software, see https://UNVS.com/Wallet
