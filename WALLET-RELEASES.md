@@ -62,7 +62,13 @@ Once you are on the Desktop, click the Terminal icon to load terminal window and
 ```
 cd Desktop
 
-git clone --single-branch --branch v1.2 https://github.com/unvscom/unvs.git
+git clone --single-branch --branch v1.6 https://github.com/unvscom/unvs.git
+```
+ALTERNATIVELY
+```
+cd Desktop
+
+git clone https://github.com/unvscom/unvs.git
 ```
 
 Once repo is cloned to Desktop, in terminal navigate to **/src folder** with following command and compile code by typing:
