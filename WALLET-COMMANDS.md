@@ -23,6 +23,7 @@ https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-RELEASES.md
 **Here is a list of our released & Trusted Node IP Addresses:**
 
 134.209.17.74
+
 206.189.20.44
 
 
