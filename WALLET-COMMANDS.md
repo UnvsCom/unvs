@@ -18,7 +18,7 @@ UNVS WALLET NODES & COMMANDS
 
 You can download our wallet releases from:
 
-https://github.com/UnvsCom/Current-Wallet-Releases
+https://github.com/UnvsCom/Wallets
 
 **Here is a list of our released & Trusted Node IP Addresses:**
 
