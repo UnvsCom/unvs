@@ -22,9 +22,8 @@ https://github.com/UnvsCom/Current-Wallet-Releases
 
 **Here is a list of our released & Trusted Node IP Addresses:**
 
-134.209.17.74
+78.141.242.233
 
-206.189.20.44
 
 
 
