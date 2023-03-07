@@ -16,9 +16,9 @@ Copyright (c) 2023 UNVS Developers.
 UNVS WALLET RELEASES
 ----------------
 
-**WINDOWS** exe release download link:  https://github.com/UnvsCom/Current-Wallet-Releases
+**WINDOWS** exe release download link:  https://github.com/UnvsCom/Wallets
 
-**LINUX** release download link: https://github.com/UnvsCom/Current-Wallet-Releases
+**LINUX** release download link: https://github.com/UnvsCom/Wallets
 
 (Standed installation & allow through firewall.)
 
