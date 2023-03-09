@@ -24,7 +24,12 @@ UNVS is a lite version of Bitcoin using scrypt as a proof-of-work algorithm POW 
  - 288 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, downloadable version of
-the UNVS client software, see https://UNVS.com/Wallet
+the UNVS client software, see:
+
+https://UNVS.com/Wallet
+
+https://github.com/UnvsCom/Wallets
+
 
 License
 -------
